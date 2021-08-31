@@ -24,5 +24,5 @@
 - Carin Lucia Martinez Espinola
 - Hugo Marcelo Molas Cespedes
 
-# Documento de investigacion de Websockets
+# Documento de investigacion 
 - https://docs.google.com/document/d/1-0WTi8Gx4GnEpTuzdQwyrlgRf8sSF0Q3BxbbELPFmOw/edit?usp=sharing
