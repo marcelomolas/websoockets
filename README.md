@@ -15,3 +15,6 @@
 1. npm install
 2. npm run build
 3. npm start
+
+# Investigación Websockets
+https://docs.google.com/document/d/1-0WTi8Gx4GnEpTuzdQwyrlgRf8sSF0Q3BxbbELPFmOw/edit#
