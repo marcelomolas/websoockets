@@ -28,6 +28,4 @@
 # Documento de investigacion 
 - https://docs.google.com/document/d/1-0WTi8Gx4GnEpTuzdQwyrlgRf8sSF0Q3BxbbELPFmOw/edit?usp=sharing
 =======
-# Investigación Websockets
-https://docs.google.com/document/d/1-0WTi8Gx4GnEpTuzdQwyrlgRf8sSF0Q3BxbbELPFmOw/edit#
->>>>>>> 77ec01da0a2e4db939d4a9cc828b6c6d1ecb660d
+cb660d
