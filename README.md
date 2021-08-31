@@ -10,7 +10,7 @@
 
 - cd a la carpeta clonada
 
-#Para instalar todas la dependencias escribir en la terminal
+# Para instalar todas la dependencias escribir en la terminal
 
 1. npm install
 2. npm run build
