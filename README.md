@@ -28,3 +28,7 @@
 # Documento de investigacion 
 - https://docs.google.com/document/d/1-0WTi8Gx4GnEpTuzdQwyrlgRf8sSF0Q3BxbbELPFmOw/edit?usp=sharing
 =======
+<<<<<<< HEAD
+=======
+cb660d
+>>>>>>> a0af2e86c3cb4100eec9d315d8bc4cb1daed16eb
