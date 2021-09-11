@@ -13,7 +13,8 @@ noteForm.addEventListener("submit", (e) => {
   
   //texto estatico solicitado en primer parcial =Aramy Rolon
   console.log("Hola Mundo");
-  
+  //texto estatico del primer parcial = Marcelo Molas
+  console.log("Hola Profeeee");
   title.value = "";
   description.value = "";
 
