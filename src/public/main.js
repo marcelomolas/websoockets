@@ -10,7 +10,10 @@ noteForm.addEventListener("submit", (e) => {
   } else {
     saveNote(title.value, description.value);
   }
-
+  
+  //texto estatico solicitado en primer parcial =Aramy Rolon
+  console.log("Hola mundo");
+  
   title.value = "";
   description.value = "";
 
